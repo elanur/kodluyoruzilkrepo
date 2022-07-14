@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![Picture](https://github.com/elanur/kodluyoruzilkrepo/blob/2c0eee8fbfc4402a19ff0b8a03c03952551f9384/Proje.png)
 # Installation
 
 ```
